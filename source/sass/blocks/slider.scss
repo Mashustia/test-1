@@ -1,0 +1,16 @@
+.slider {
+  display: flex;
+  justify-content: flex-start;
+
+  background-color: #f8f8f8;
+  background-image: url("../../img/slider-1.png");
+  background-repeat: no-repeat;
+  background-position: 10px 72px;
+}
+
+.slider__customer-form {
+  margin-top: 27px;
+  margin-right: 22px;
+  margin-bottom: 50px;
+  margin-left: auto;
+}

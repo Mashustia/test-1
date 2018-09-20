@@ -1,0 +1,53 @@
+@font-face {
+  font-weight: normal;
+  font-weight: 400;
+  font-family: "PT Sans", sans-serif;
+  font-style: normal;
+
+  src: local("PT Sans"),
+  url("../../fonts/ptsans.woff"),
+  url("../../fonts/ptsans.woff2");
+}
+
+@font-face {
+  font-weight: normal;
+  font-weight: 700;
+  font-family: "PT Sans", sans-serif;
+  font-style: normal;
+
+  src: local("PT Sans"),
+  url("../../fonts/ptsansbold.woff"),
+  url("../../fonts/ptsansbold.woff2");
+}
+
+@font-face {
+  font-weight: normal;
+  font-weight: 400;
+  font-family: "MyriadPro", sans-serif;
+  font-style: normal;
+
+  src: local("MyriadPro"),
+  url("../../fonts/MyriadPro-Regular.woff"),
+  url("../../fonts/MyriadPro-Regular.woff2");
+}
+
+@font-face {
+  font-weight: normal;
+  font-weight: 700;
+  font-family: "MyriadPro", sans-serif;
+  font-style: normal;
+
+  src: local("MyriadPro"),
+  url("../../fonts/MyriadPro-Bold.woff"),
+  url("../../fonts/MyriadPro-Bold.woff2");
+}
+
+@font-face {
+  font-weight: normal;
+  font-family: "Open Sans Condensed Light";
+  font-style: normal;
+
+  src: local("Open Sans Condensed Light"),
+  url("../../fonts/OpenSansCondensed-Light.woff"),
+  url("../../fonts/OpenSansCondensed-Light.woff2");
+}

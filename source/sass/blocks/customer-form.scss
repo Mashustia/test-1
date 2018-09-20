@@ -1,0 +1,52 @@
+.customer-form__options {
+  width: 264px;
+
+  font-size: 24px;
+  line-height: 24px;
+  font-family: "MyriadPro", sans-serif;
+
+  background-color: #ebebeb;
+}
+
+.customer-form__options {
+  margin: 0;
+  padding-top: 26px;
+  padding-right: 23px;
+  padding-bottom: 45px;
+  padding-left: 24px;
+
+  border: none;
+}
+
+.customer-form__input {
+  width: 217px;
+  margin-bottom: 32px;
+  padding-top: 11px;
+  padding-right: 23px;
+  padding-bottom: 11px;
+  padding-left: 23px;
+
+  letter-spacing: -1.4px;
+
+  border: none;
+}
+
+.customer-form__button {
+  width: 100%;
+  margin-top: 10px;
+  padding-top: 18px;
+  padding-bottom: 20px;
+  cursor: pointer;
+
+  &:hover,
+  &:focus {
+    background-color: #8d8d8d;
+  }
+  &:active{
+    color: $main-text-color;
+
+    background-color: $main-background-color;
+    box-shadow: inset 1px 1px 0 0 $main-text-color,
+    inset -1px -1px 0 0 $main-text-color;
+  }
+}
