@@ -1,2 +1,2 @@
 # test-1
-test fot Kakadu
+test for Kakadu
